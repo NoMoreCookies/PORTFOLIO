@@ -1,4 +1,3 @@
-Here’s a polished and properly formatted **`README.md`** file for your project based on the information in the screenshot and your notes:
 
 ---
 
@@ -94,5 +93,3 @@ WORDLE DATA ANALYSIS/
 * The Wordle data analyzed here reflects only data from **2022**, and was originally gathered from **Twitter** posts.
 
 ---
-
-Would you like me to make it more formal (e.g., suitable for GitHub public repo) or keep this friendly/informal tone?
